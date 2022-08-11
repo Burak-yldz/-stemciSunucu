@@ -18,7 +18,7 @@ bağlanti kapatiliyor ...
 Process finished with exit code 0
 
 
------------------------------------------Server Output--------------------------------
+----------------------------Server Output----------------------
 
 Output
 Basladi :ServerSocket[addr=0.0.0.0/0.0.0.0,localport=3000]
